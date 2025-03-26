@@ -5,5 +5,5 @@
 [submodule "xgboost"]
 	path = xgboost
 	url = https://github.com/dmlc/xgboost
-	branch = test-r-build
+	branch = release_3.0.0
 	subdir = R-package
