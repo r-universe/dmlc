@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/dmlc/dmlc.r-universe.dev
 	branch = HEAD
+[submodule "xgboost"]
+	path = xgboost
+	url = https://github.com/dmlc/xgboost
+	branch = release_3.0.0
+	subdir = R-package
